@@ -23,6 +23,9 @@ The React Weather App is a user-friendly application that leverages the power of
 
 
 ## Screenshots
+![Weather App Screenshot 1](public/Screenshot1.png)
+![Weather App Screenshot 2](public/Screenshot2.png)
+![Weather App Screenshot 3](public/Screenshot3.png)
 
 ## Setup
 
